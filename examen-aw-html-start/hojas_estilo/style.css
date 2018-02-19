@@ -1,0 +1,15 @@
+body {
+	font-family: Verdana;
+	font-size: 16px;
+	background-color: #FCFBE3;
+}
+#wrapper {
+	width: 90%;
+	border: 1px solid #898989;
+	background-color: #CDBB99;
+}
+#cabecera {
+	height: 180px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
